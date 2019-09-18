@@ -19,9 +19,9 @@ public class Song {
         String singer = "Elton John";
         String song = "Rocketman";
         
-        System.out.println("+");
-        System.out.println("| The following song is "+ song +" by "+singer+"|");
-        System.out.println("+-----------------------------------------------------------------+");
+        System.out.println("+-------------------------------------------------+");
+        System.out.println("| The following song is "+ song +" by "+singer+"   |");
+        System.out.println("+-------------------------------------------------+");
                         //Verse 1
         System.out.print("She packed my bags last night,\n "
                        + "Pre-flight zero hour: 9:00 am \n"
